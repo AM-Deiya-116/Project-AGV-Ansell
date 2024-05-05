@@ -1,1 +1,1 @@
-This project is focused to implement a material handling system utilizing AGV's. The design is constructing in simulation software called SIMIO. 
+This project is focused on implementing a material handling system utilizing AGVs. The design is being constructed in simulation software called SIMIO.
